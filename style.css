@@ -169,4 +169,10 @@ input{
     html{
         font-size: 45%;
     }
+    .cont{
+        display:block;
+    }
+    .log{
+        margin-top:8rem;
+    }
 }
